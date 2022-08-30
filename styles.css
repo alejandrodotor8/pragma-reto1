@@ -114,7 +114,10 @@ html{
 
 /* MEDIA QUERY */
 
-@media (min-width: 570px) { 
+@media (min-width: 570px) {
+   .header{
+      justify-content: flex-start;
+   }
    .character__img{
       position: unset;
       width: 250px;
