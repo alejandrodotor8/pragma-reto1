@@ -1,1 +1,2 @@
-# pragma-reto1
+# Reto #1 | POKEDEX
+
